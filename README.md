@@ -3,14 +3,14 @@ Docker install in kali linux:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="30">
 
 
-# **1:- install kali linux and use this comands For RDP access.**
+# **1: install kali linux and use this comands For RDP access.**
 <img src="https://yoolk.ninja/wp-content/uploads/2020/06/Apps-Ms-Remote-Desktop-1024x1024.png" width="50">
 
   -  sudo apt-get install xrdp -y
   -  sudo systemctl enable xrdp
   -  sudo systemctl start xrdp
  
-# **2:- Use this comands to install Docker in kali linux.**
+# **2: Use this comands to install Docker in kali linux.**
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png" width="100">
 
  - sudo apt-get update
@@ -27,7 +27,7 @@ Docker install in kali linux:
 
 
 
-# **3:- Install CASAOS IF Require.**
+# **3: Install CASAOS IF Require.**
 <img src="https://wiki.casaos.io/_assets/casaos-no-text.svg" width="50">
 
  - curl -fsSL https://get.casaos.io | sudo bash
