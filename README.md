@@ -31,5 +31,3 @@ Docker install in kali linux:
 
  - curl -fsSL https://get.casaos.io | sudo bash
 
-
-[![Video Title](https://img.youtube.com/vi/WZFIo4yj17c/0.jpg)](https://www.youtube.com/watch?v=WZFIo4yj17c)
