@@ -24,6 +24,6 @@ Docker install in kali linux:
 
 
 3:- Install CASAOS IF Require
-![Alt text](https://wiki.casaos.io/_assets/casaos-no-text.svg)
+![Alt text]<img src="[image-url](https://wiki.casaos.io/_assets/casaos-no-text.svg)" alt="Alt Text" width="300" height="200">
 
  - curl -fsSL https://get.casaos.io | sudo bash
