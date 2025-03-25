@@ -3,10 +3,10 @@ Docker install in kali linux
 
 
 1:- install kali linux and use this comands
-  - [x]  1: sudo apt-get install xrdp
-  - []  2: sudo systemctl enable xrdp
-  - []  3: sudo systemctl start xrdp
-  - [x]  4: sudo apt-get install leafpad 
+  -   1: sudo apt-get install xrdp
+  -   2: sudo systemctl enable xrdp
+  -   3: sudo systemctl start xrdp
+  -   4: sudo apt-get install leafpad 
  
 2:- Use this comands to install Docker in kalilinux
  
