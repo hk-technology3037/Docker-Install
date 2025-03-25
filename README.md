@@ -6,11 +6,10 @@ Docker install in kali linux:
   -  sudo apt-get install xrdp
   -  sudo systemctl enable xrdp
   -  sudo systemctl start xrdp
-
-![Alt text](https://e7.pngegg.com/pngimages/39/564/png-clipart-docker-logo-landscape-tech-companies.png)
  
 2:- Use this comands to install Docker in kali linux
- 
+![Alt text](https://e7.pngegg.com/pngimages/39/564/png-clipart-docker-logo-landscape-tech-companies.png)
+
  - sudo apt update
  - sudo apt upgrade
  - sudo apt install docker.io
