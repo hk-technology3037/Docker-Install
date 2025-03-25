@@ -1,4 +1,4 @@
-# Docker-Install
+# Docker Install
 Docker install in kali linux:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="30">
 
