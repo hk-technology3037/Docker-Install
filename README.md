@@ -20,7 +20,7 @@ Docker install in kali linux:
  - sudo apt install -y docker-ce docker-ce-cli containerd.io
  - sudo apt install docker-compose
 
-![Alt text](https://wiki.casaos.io/en/get-started)
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZxtKEJE_l7iE7kDVcpCIZamkaXKJXdNf8g&s)
 
 3:- Install CASAOS IF Require
  - curl -fsSL https://get.casaos.io | sudo bash
