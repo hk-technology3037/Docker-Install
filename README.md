@@ -1,6 +1,6 @@
 # Docker Install
 Docker install in kali linux:
-<a href="https://hktechnology.in"><img src="https://i.ibb.co/3pyMgxV/HK-Logo.png" target="_blank"></img></a>
+<a href="https://hktechnology.in" target="_blank"><img src="https://i.ibb.co/3pyMgxV/HK-Logo.png" target="_blank"></img></a>
 
 
 # **1: install kali linux and use this comands For RDP access.**
